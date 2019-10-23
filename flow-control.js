@@ -1,12 +1,13 @@
+var age = Number
 function basicTeenager(age) {
   if (age >= 13 && age <= 19) {
-    age = You are a teenager!
+    You are a teenager!
   }
 }
 
 function teenager(age) {
   if (age >= 13 && age <= 19) {
-    age = You are a teenager!
+    You are a teenager!
   }
   else { You are not a teenager}
 
@@ -14,10 +15,10 @@ function teenager(age) {
 
 function ageChecker(age) {
   if (age >= 13 && age <= 19) {
-    age = You are a teenager!
+    You are a teenager!
   }
   else if (age <= 12) {
-    age = You are a kid
+    You are a kid
   }
   else {You are a grownup}
 
